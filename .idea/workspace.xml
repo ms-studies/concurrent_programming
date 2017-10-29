@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fde76329-ac77-4efd-b0b5-f98f17a8105c" name="Default" comment="" />
+    <list default="true" id="fde76329-ac77-4efd-b0b5-f98f17a8105c" name="Default" comment="Minor changes">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/zad1/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/zad1/SRN$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/zad1/SRN.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/zad2/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/zad2/Monitor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/zad2/ProcesDowolny.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/zad2/ProcesWylaczny.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,31 +35,110 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="276" column="10" lean-forward="true" selection-start-line="273" selection-start-column="16" selection-end-line="276" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ProcesWylaczny.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/zad2/ProcesWylaczny.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1509259725693" expanded="true" signature="45588:45630" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="45588:45648" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="45588:45661" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="45588:45676" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="45711:48301" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="45724:48286" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="45778:46080" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="45797:46065" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="45860:46045" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="45900:46011" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="45921:45989" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="46130:46464" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="46149:46449" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="46244:46429" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="46284:46395" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="46305:46373" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="46515:46787" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="46534:46772" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="46567:46752" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="46607:46718" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="46628:46696" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="46830:47143" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="46849:47128" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="46923:47108" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="46963:47074" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="46984:47052" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="47194:47554" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="47213:47539" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="47295:47519" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="47335:47485" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="47356:47463" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="47589:47895" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="47608:47880" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="47682:47860" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="47722:47826" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="47743:47804" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="47947:48272" ph="..." />
+                <marker date="1509259725693" expanded="true" signature="47966:48257" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compiler.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,6 +175,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>zasobu 9</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -104,6 +198,7 @@
         <option value="$PROJECT_DIR$/src/main/java/zad2/ProcesDowolny.java" />
         <option value="$PROJECT_DIR$/src/main/java/zad2/ProcesWylaczny.java" />
         <option value="$PROJECT_DIR$/src/main/java/zad2/Main.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -205,7 +300,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.35042736" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -362,12 +457,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509161659600</updated>
-      <workItem from="1509161665948" duration="12563000" />
+      <workItem from="1509161665948" duration="12909000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12563000" />
+    <option name="totallyTimeSpent" value="12909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1665" y="-4" width="1855" height="1084" extended-state="6" />
@@ -380,9 +475,9 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34301075" sideWeight="0.110558316" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34086022" sideWeight="0.20784964" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975152" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34086022" sideWeight="0.88944167" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34086022" sideWeight="0.7921504" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22473118" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -502,7 +597,7 @@
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
-          <caret line="276" column="10" lean-forward="true" selection-start-line="273" selection-start-column="16" selection-end-line="276" selection-end-column="10" />
+          <caret line="276" column="10" lean-forward="false" selection-start-line="273" selection-start-column="16" selection-end-line="276" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -538,7 +633,23 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/zad2/ProcesWylaczny.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -546,7 +657,70 @@
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1509259725693" expanded="true" signature="45588:45630" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="45588:45648" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="45588:45661" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="45588:45676" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="45711:48301" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="45724:48286" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="45778:46080" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="45797:46065" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="45860:46045" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="45900:46011" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="45921:45989" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="46130:46464" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="46149:46449" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="46244:46429" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="46284:46395" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="46305:46373" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="46515:46787" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="46534:46772" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="46567:46752" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="46607:46718" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="46628:46696" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="46830:47143" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="46849:47128" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="46923:47108" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="46963:47074" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="46984:47052" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="47194:47554" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="47213:47539" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="47295:47519" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="47335:47485" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="47356:47463" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="47589:47895" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="47608:47880" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="47682:47860" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="47722:47826" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="47743:47804" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="47947:48272" ph="..." />
+            <marker date="1509259725693" expanded="true" signature="47966:48257" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding />
         </state>
       </provider>
