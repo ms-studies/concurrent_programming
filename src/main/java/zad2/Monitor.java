@@ -21,11 +21,11 @@ public class Monitor {
     public synchronized int korzystaj(Thread thread) throws InterruptedException {
         int nr_zasobu = 0;
         if (thread instanceof ProcesDowolny) {
-            //System.out.println("dow" + thread);
             nr_zasobu = new Random().nextInt(POJEMNOSC);
+            System.out.println("Dowolny " + ((ProcesDowolny)thread).NUMER+ " czeka na "+ nr_zasobu);
         } else if (thread instanceof ProcesWylaczny) {
-            //System.out.println("wyl" + thread);
             nr_zasobu = ((ProcesWylaczny)thread).NUMER_ZASOBU;
+            System.out.println("Wylaczny " + ((ProcesWylaczny)thread).NUMER_ZASOBU+ " czeka na "+ nr_zasobu);
         }
         while (!zasobWolny(nr_zasobu)){
             wait();
